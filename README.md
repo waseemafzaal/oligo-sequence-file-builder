@@ -103,3 +103,17 @@ This tool reduces that risk by using ID based mapping and automated sequence fil
 
 Users should verify compatibility with their own synthesizer software before production use.
 
+## Interface
+
+### Directory Mapping
+
+![Directory Mapping](screenshots/directory_mapping.png)
+
+### Plate Editor
+
+![Plate Editor](screenshots/plate_editor.png)
+
+### Preview and Export
+
+![Preview and Export](screenshots/preview_and_export.png)
+
